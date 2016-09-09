@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\PowersOfTwo\bin\Debug\PowersOfTwo.exe.config
+C:\projects\Csharp\7.Advanced-Loops\PowersOfTwo\bin\Debug\PowersOfTwo.exe
+C:\projects\Csharp\7.Advanced-Loops\PowersOfTwo\bin\Debug\PowersOfTwo.pdb
+C:\projects\Csharp\7.Advanced-Loops\PowersOfTwo\obj\Debug\PowersOfTwo.exe
+C:\projects\Csharp\7.Advanced-Loops\PowersOfTwo\obj\Debug\PowersOfTwo.pdb

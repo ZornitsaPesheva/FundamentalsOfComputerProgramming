@@ -1,0 +1,5 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\8.BiggestNumber\bin\Debug\8.BiggestNumber.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\8.BiggestNumber\bin\Debug\8.BiggestNumber.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\8.BiggestNumber\bin\Debug\8.BiggestNumber.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\8.BiggestNumber\obj\Debug\8.BiggestNumber.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\8.BiggestNumber\obj\Debug\8.BiggestNumber.pdb

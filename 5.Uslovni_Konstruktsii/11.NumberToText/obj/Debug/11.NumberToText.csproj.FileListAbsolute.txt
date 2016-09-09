@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\11.NumberToText\bin\Debug\11.NumberToText.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\11.NumberToText\bin\Debug\11.NumberToText.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\11.NumberToText\bin\Debug\11.NumberToText.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\11.NumberToText\obj\Debug\11.NumberToText.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\11.NumberToText\obj\Debug\11.NumberToText.pdb

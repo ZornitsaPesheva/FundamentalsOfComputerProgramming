@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\5.NumbersBetween\bin\Debug\5.NumbersBetween.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\5.NumbersBetween\bin\Debug\5.NumbersBetween.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\5.NumbersBetween\bin\Debug\5.NumbersBetween.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\5.NumbersBetween\obj\Debug\5.NumbersBetween.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\5.NumbersBetween\obj\Debug\5.NumbersBetween.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\5.NumbersBetween\obj\Debug\5.NumbersBetween.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\6.PrintBigger\bin\Debug\6.PrintBigger.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\6.PrintBigger\bin\Debug\6.PrintBigger.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\6.PrintBigger\bin\Debug\6.PrintBigger.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\6.PrintBigger\obj\Debug\6.PrintBigger.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\6.PrintBigger\obj\Debug\6.PrintBigger.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\6.PrintBigger\obj\Debug\6.PrintBigger.pdb

@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\5.AreaTapeze\bin\Debug\5.AreaTapeze.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\5.AreaTapeze\bin\Debug\5.AreaTapeze.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\5.AreaTapeze\bin\Debug\5.AreaTapeze.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\5.AreaTapeze\obj\Debug\5.AreaTapeze.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\5.AreaTapeze\obj\Debug\5.AreaTapeze.pdb

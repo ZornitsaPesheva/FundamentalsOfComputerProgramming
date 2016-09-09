@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\1.sum3numbers\bin\Debug\1.sum3numbers.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\1.sum3numbers\bin\Debug\1.sum3numbers.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\1.sum3numbers\bin\Debug\1.sum3numbers.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\1.sum3numbers\obj\Debug\1.sum3numbers.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\1.sum3numbers\obj\Debug\1.sum3numbers.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\1.sum3numbers\obj\Debug\1.sum3numbers.pdb

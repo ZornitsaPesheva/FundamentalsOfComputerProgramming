@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\14.IsNumberSimple\bin\Debug\14.IsNumberSimple.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\14.IsNumberSimple\bin\Debug\14.IsNumberSimple.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\14.IsNumberSimple\bin\Debug\14.IsNumberSimple.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\14.IsNumberSimple\obj\Debug\14.IsNumberSimple.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\14.IsNumberSimple\obj\Debug\14.IsNumberSimple.pdb

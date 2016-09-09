@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\16.PrintRandomNumbers\bin\Debug\16.PrintRandomNumbers.exe.config
+C:\projects\Csharp\6.Tsikli\16.PrintRandomNumbers\obj\Debug\16.PrintRandomNumbers.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\16.PrintRandomNumbers\bin\Debug\16.PrintRandomNumbers.exe
+C:\projects\Csharp\6.Tsikli\16.PrintRandomNumbers\bin\Debug\16.PrintRandomNumbers.pdb
+C:\projects\Csharp\6.Tsikli\16.PrintRandomNumbers\obj\Debug\16.PrintRandomNumbers.exe
+C:\projects\Csharp\6.Tsikli\16.PrintRandomNumbers\obj\Debug\16.PrintRandomNumbers.pdb

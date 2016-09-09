@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\Sequence2k+1\bin\Debug\Sequence2k+1.exe.config
+C:\projects\Csharp\7.Advanced-Loops\Sequence2k+1\bin\Debug\Sequence2k+1.exe
+C:\projects\Csharp\7.Advanced-Loops\Sequence2k+1\bin\Debug\Sequence2k+1.pdb
+C:\projects\Csharp\7.Advanced-Loops\Sequence2k+1\obj\Debug\Sequence2k+1.exe
+C:\projects\Csharp\7.Advanced-Loops\Sequence2k+1\obj\Debug\Sequence2k+1.pdb

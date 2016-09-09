@@ -1,0 +1,6 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\9.Point_in_Circle_out_of_rectabgle\bin\Debug\9.Point_in_Circle_out_of_rectabgle.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\9.Point_in_Circle_out_of_rectabgle\obj\Debug\9.Point_in_Circle_out_of_rectabgle.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\9.Point_in_Circle_out_of_rectabgle\bin\Debug\9.Point_in_Circle_out_of_rectabgle.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\9.Point_in_Circle_out_of_rectabgle\bin\Debug\9.Point_in_Circle_out_of_rectabgle.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\9.Point_in_Circle_out_of_rectabgle\obj\Debug\9.Point_in_Circle_out_of_rectabgle.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\9.Point_in_Circle_out_of_rectabgle\obj\Debug\9.Point_in_Circle_out_of_rectabgle.pdb

@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\13.ChangePtoV\bin\Debug\13.ChangePtoV.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\13.ChangePtoV\bin\Debug\13.ChangePtoV.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\13.ChangePtoV\bin\Debug\13.ChangePtoV.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\13.ChangePtoV\obj\Debug\13.ChangePtoV.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\13.ChangePtoV\obj\Debug\13.ChangePtoV.pdb

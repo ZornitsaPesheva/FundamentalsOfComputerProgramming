@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\EvenPowersof2\bin\Debug\EvenPowersof2.exe.config
+C:\projects\Csharp\7.Advanced-Loops\EvenPowersof2\bin\Debug\EvenPowersof2.exe
+C:\projects\Csharp\7.Advanced-Loops\EvenPowersof2\bin\Debug\EvenPowersof2.pdb
+C:\projects\Csharp\7.Advanced-Loops\EvenPowersof2\obj\Debug\EvenPowersof2.exe
+C:\projects\Csharp\7.Advanced-Loops\EvenPowersof2\obj\Debug\EvenPowersof2.pdb

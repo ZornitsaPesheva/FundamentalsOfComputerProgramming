@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\CheckPrime\bin\Debug\CheckPrime.exe.config
+C:\projects\Csharp\7.Advanced-Loops\CheckPrime\bin\Debug\CheckPrime.exe
+C:\projects\Csharp\7.Advanced-Loops\CheckPrime\bin\Debug\CheckPrime.pdb
+C:\projects\Csharp\7.Advanced-Loops\CheckPrime\obj\Debug\CheckPrime.exe
+C:\projects\Csharp\7.Advanced-Loops\CheckPrime\obj\Debug\CheckPrime.pdb

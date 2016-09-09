@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\4\bin\Debug\4.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\4\bin\Debug\4.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\4\bin\Debug\4.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\4\obj\Debug\4.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\4\obj\Debug\4.pdb

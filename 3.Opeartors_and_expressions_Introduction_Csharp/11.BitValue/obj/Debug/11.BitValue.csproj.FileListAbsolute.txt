@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\11.BitValue\bin\Debug\11.BitValue.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\11.BitValue\bin\Debug\11.BitValue.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\11.BitValue\bin\Debug\11.BitValue.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\11.BitValue\obj\Debug\11.BitValue.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\11.BitValue\obj\Debug\11.BitValue.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\11.ZerosOfFactoriel\bin\Debug\11.ZerosOfFactoriel.exe.config
+C:\projects\Csharp\6.Tsikli\11.ZerosOfFactoriel\bin\Debug\11.ZerosOfFactoriel.exe
+C:\projects\Csharp\6.Tsikli\11.ZerosOfFactoriel\bin\Debug\11.ZerosOfFactoriel.pdb
+C:\projects\Csharp\6.Tsikli\11.ZerosOfFactoriel\obj\Debug\11.ZerosOfFactoriel.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\11.ZerosOfFactoriel\obj\Debug\11.ZerosOfFactoriel.exe
+C:\projects\Csharp\6.Tsikli\11.ZerosOfFactoriel\obj\Debug\11.ZerosOfFactoriel.pdb

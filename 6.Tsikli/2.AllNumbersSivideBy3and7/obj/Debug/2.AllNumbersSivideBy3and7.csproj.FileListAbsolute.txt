@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\2.AllNumbersSivideBy3and7\bin\Debug\2.AllNumbersSivideBy3and7.exe.config
+C:\projects\Csharp\6.Tsikli\2.AllNumbersSivideBy3and7\bin\Debug\2.AllNumbersSivideBy3and7.exe
+C:\projects\Csharp\6.Tsikli\2.AllNumbersSivideBy3and7\bin\Debug\2.AllNumbersSivideBy3and7.pdb
+C:\projects\Csharp\6.Tsikli\2.AllNumbersSivideBy3and7\obj\Debug\2.AllNumbersSivideBy3and7.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\2.AllNumbersSivideBy3and7\obj\Debug\2.AllNumbersSivideBy3and7.exe
+C:\projects\Csharp\6.Tsikli\2.AllNumbersSivideBy3and7\obj\Debug\2.AllNumbersSivideBy3and7.pdb

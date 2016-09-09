@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\9,CalcSum\bin\Debug\9,CalcSum.exe.config
+C:\projects\Csharp\6.Tsikli\9,CalcSum\obj\Debug\9,CalcSum.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\9,CalcSum\bin\Debug\9,CalcSum.exe
+C:\projects\Csharp\6.Tsikli\9,CalcSum\bin\Debug\9,CalcSum.pdb
+C:\projects\Csharp\6.Tsikli\9,CalcSum\obj\Debug\9,CalcSum.exe
+C:\projects\Csharp\6.Tsikli\9,CalcSum\obj\Debug\9,CalcSum.pdb

@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\7.MaxNumberFrom5\bin\Debug\7.MaxNumberFrom5.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\7.MaxNumberFrom5\bin\Debug\7.MaxNumberFrom5.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\7.MaxNumberFrom5\bin\Debug\7.MaxNumberFrom5.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\7.MaxNumberFrom5\obj\Debug\7.MaxNumberFrom5.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\7.MaxNumberFrom5\obj\Debug\7.MaxNumberFrom5.pdb

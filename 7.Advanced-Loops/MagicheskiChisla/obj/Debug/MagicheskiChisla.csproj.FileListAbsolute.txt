@@ -1,0 +1,6 @@
+C:\projects\Csharp\7.Advanced-Loops\MagicheskiChisla\bin\Debug\MagicheskiChisla.exe.config
+C:\projects\Csharp\7.Advanced-Loops\MagicheskiChisla\bin\Debug\MagicheskiChisla.exe
+C:\projects\Csharp\7.Advanced-Loops\MagicheskiChisla\bin\Debug\MagicheskiChisla.pdb
+C:\projects\Csharp\7.Advanced-Loops\MagicheskiChisla\obj\Debug\MagicheskiChisla.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\7.Advanced-Loops\MagicheskiChisla\obj\Debug\MagicheskiChisla.exe
+C:\projects\Csharp\7.Advanced-Loops\MagicheskiChisla\obj\Debug\MagicheskiChisla.pdb

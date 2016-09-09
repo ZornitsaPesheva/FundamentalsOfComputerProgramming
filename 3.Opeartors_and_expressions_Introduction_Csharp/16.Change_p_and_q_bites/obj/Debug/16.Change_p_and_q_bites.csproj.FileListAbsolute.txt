@@ -1,0 +1,6 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\16.Change_p_and_q_bites\bin\Debug\16.Change_p_and_q_bites.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\16.Change_p_and_q_bites\bin\Debug\16.Change_p_and_q_bites.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\16.Change_p_and_q_bites\bin\Debug\16.Change_p_and_q_bites.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\16.Change_p_and_q_bites\obj\Debug\16.Change_p_and_q_bites.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\16.Change_p_and_q_bites\obj\Debug\16.Change_p_and_q_bites.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\16.Change_p_and_q_bites\obj\Debug\16.Change_p_and_q_bites.pdb

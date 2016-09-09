@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\4.3rdBitIs1\bin\Debug\4.3rdBitIs1.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\4.3rdBitIs1\bin\Debug\4.3rdBitIs1.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\4.3rdBitIs1\bin\Debug\4.3rdBitIs1.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\4.3rdBitIs1\obj\Debug\4.3rdBitIs1.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\4.3rdBitIs1\obj\Debug\4.3rdBitIs1.pdb

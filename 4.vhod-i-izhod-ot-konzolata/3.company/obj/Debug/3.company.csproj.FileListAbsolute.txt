@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3.company\bin\Debug\3.company.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3.company\obj\Debug\3.company.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3.company\bin\Debug\3.company.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3.company\bin\Debug\3.company.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3.company\obj\Debug\3.company.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3.company\obj\Debug\3.company.pdb

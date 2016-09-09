@@ -1,0 +1,6 @@
+C:\projects\Csharp\7.Advanced-Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe.config
+C:\projects\Csharp\7.Advanced-Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.exe
+C:\projects\Csharp\7.Advanced-Loops\EnterEvenNumber\bin\Debug\EnterEvenNumber.pdb
+C:\projects\Csharp\7.Advanced-Loops\EnterEvenNumber\obj\Debug\EnterEvenNumber.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\7.Advanced-Loops\EnterEvenNumber\obj\Debug\EnterEvenNumber.exe
+C:\projects\Csharp\7.Advanced-Loops\EnterEvenNumber\obj\Debug\EnterEvenNumber.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\10.Matrix\bin\Debug\10.Matrix.exe.config
+C:\projects\Csharp\6.Tsikli\10.Matrix\bin\Debug\10.Matrix.exe
+C:\projects\Csharp\6.Tsikli\10.Matrix\bin\Debug\10.Matrix.pdb
+C:\projects\Csharp\6.Tsikli\10.Matrix\obj\Debug\10.Matrix.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\10.Matrix\obj\Debug\10.Matrix.exe
+C:\projects\Csharp\6.Tsikli\10.Matrix\obj\Debug\10.Matrix.pdb

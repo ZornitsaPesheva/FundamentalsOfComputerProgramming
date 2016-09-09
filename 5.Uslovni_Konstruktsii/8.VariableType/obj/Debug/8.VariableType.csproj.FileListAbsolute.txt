@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\8.VariableType\bin\Debug\8.VariableType.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\8.VariableType\bin\Debug\8.VariableType.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\8.VariableType\bin\Debug\8.VariableType.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\8.VariableType\obj\Debug\8.VariableType.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\8.VariableType\obj\Debug\8.VariableType.pdb

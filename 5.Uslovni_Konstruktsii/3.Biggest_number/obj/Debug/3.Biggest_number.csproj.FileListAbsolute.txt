@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\3.Biggest_number\bin\Debug\3.Biggest_number.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\3.Biggest_number\bin\Debug\3.Biggest_number.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\3.Biggest_number\bin\Debug\3.Biggest_number.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\3.Biggest_number\obj\Debug\3.Biggest_number.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\3.Biggest_number\obj\Debug\3.Biggest_number.pdb

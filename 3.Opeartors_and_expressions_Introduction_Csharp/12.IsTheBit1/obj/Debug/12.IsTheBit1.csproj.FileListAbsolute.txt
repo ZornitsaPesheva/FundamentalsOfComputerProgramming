@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\12.IsTheBit1\bin\Debug\12.IsTheBit1.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\12.IsTheBit1\bin\Debug\12.IsTheBit1.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\12.IsTheBit1\bin\Debug\12.IsTheBit1.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\12.IsTheBit1\obj\Debug\12.IsTheBit1.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\12.IsTheBit1\obj\Debug\12.IsTheBit1.pdb

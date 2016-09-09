@@ -1,0 +1,6 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\1.Change_order\bin\Debug\1.Change_order.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\1.Change_order\bin\Debug\1.Change_order.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\1.Change_order\bin\Debug\1.Change_order.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\1.Change_order\obj\Debug\1.Change_order.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\1.Change_order\obj\Debug\1.Change_order.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\1.Change_order\obj\Debug\1.Change_order.csprojResolveAssemblyReference.cache

@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.exe.config
+C:\projects\Csharp\7.Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.exe
+C:\projects\Csharp\7.Advanced-Loops\Fibonacci\bin\Debug\Fibonacci.pdb
+C:\projects\Csharp\7.Advanced-Loops\Fibonacci\obj\Debug\Fibonacci.exe
+C:\projects\Csharp\7.Advanced-Loops\Fibonacci\obj\Debug\Fibonacci.pdb

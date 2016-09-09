@@ -1,0 +1,6 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\even_or_odd\bin\Debug\even_or_odd.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\even_or_odd\bin\Debug\even_or_odd.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\even_or_odd\bin\Debug\even_or_odd.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\even_or_odd\obj\Debug\even_or_odd.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\even_or_odd\obj\Debug\even_or_odd.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\even_or_odd\obj\Debug\even_or_odd.pdb

@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\9.FindSum0\bin\Debug\9.FindSum0.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\9.FindSum0\bin\Debug\9.FindSum0.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\9.FindSum0\bin\Debug\9.FindSum0.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\9.FindSum0\obj\Debug\9.FindSum0.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\9.FindSum0\obj\Debug\9.FindSum0.pdb

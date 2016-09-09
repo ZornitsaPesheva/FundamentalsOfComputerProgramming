@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\SumDigits\bin\Debug\SumDigits.exe.config
+C:\projects\Csharp\7.Advanced-Loops\SumDigits\bin\Debug\SumDigits.exe
+C:\projects\Csharp\7.Advanced-Loops\SumDigits\bin\Debug\SumDigits.pdb
+C:\projects\Csharp\7.Advanced-Loops\SumDigits\obj\Debug\SumDigits.exe
+C:\projects\Csharp\7.Advanced-Loops\SumDigits\obj\Debug\SumDigits.pdb

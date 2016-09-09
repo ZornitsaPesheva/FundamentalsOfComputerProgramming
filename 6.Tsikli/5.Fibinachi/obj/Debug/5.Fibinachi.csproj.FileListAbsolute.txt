@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\5.Fibinachi\bin\Debug\5.Fibinachi.exe.config
+C:\projects\Csharp\6.Tsikli\5.Fibinachi\bin\Debug\5.Fibinachi.exe
+C:\projects\Csharp\6.Tsikli\5.Fibinachi\bin\Debug\5.Fibinachi.pdb
+C:\projects\Csharp\6.Tsikli\5.Fibinachi\obj\Debug\5.Fibinachi.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\5.Fibinachi\obj\Debug\5.Fibinachi.exe
+C:\projects\Csharp\6.Tsikli\5.Fibinachi\obj\Debug\5.Fibinachi.pdb

@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\NumberIinRange[1...100]\bin\Debug\NumberIinRange_1._._._100_.exe.config
+C:\projects\Csharp\7.Advanced-Loops\NumberIinRange[1...100]\bin\Debug\NumberIinRange_1._._._100_.exe
+C:\projects\Csharp\7.Advanced-Loops\NumberIinRange[1...100]\bin\Debug\NumberIinRange_1._._._100_.pdb
+C:\projects\Csharp\7.Advanced-Loops\NumberIinRange[1...100]\obj\Debug\NumberIinRange_1._._._100_.exe
+C:\projects\Csharp\7.Advanced-Loops\NumberIinRange[1...100]\obj\Debug\NumberIinRange_1._._._100_.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\test\bin\Debug\test.exe.config
+C:\projects\Csharp\6.Tsikli\test\bin\Debug\test.exe
+C:\projects\Csharp\6.Tsikli\test\bin\Debug\test.pdb
+C:\projects\Csharp\6.Tsikli\test\obj\Debug\test.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\test\obj\Debug\test.exe
+C:\projects\Csharp\6.Tsikli\test\obj\Debug\test.pdb

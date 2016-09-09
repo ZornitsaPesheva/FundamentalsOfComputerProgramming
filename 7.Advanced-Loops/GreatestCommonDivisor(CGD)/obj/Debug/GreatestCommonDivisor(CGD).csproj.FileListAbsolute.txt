@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe.config
+C:\projects\Csharp\7.Advanced-Loops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).exe
+C:\projects\Csharp\7.Advanced-Loops\GreatestCommonDivisor(CGD)\bin\Debug\GreatestCommonDivisor(CGD).pdb
+C:\projects\Csharp\7.Advanced-Loops\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).exe
+C:\projects\Csharp\7.Advanced-Loops\GreatestCommonDivisor(CGD)\obj\Debug\GreatestCommonDivisor(CGD).pdb

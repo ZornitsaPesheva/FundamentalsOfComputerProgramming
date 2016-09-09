@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\12.Fibonachi\bin\Debug\12.Fibonachi.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\12.Fibonachi\bin\Debug\12.Fibonachi.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\12.Fibonachi\bin\Debug\12.Fibonachi.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\12.Fibonachi\obj\Debug\12.Fibonachi.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\12.Fibonachi\obj\Debug\12.Fibonachi.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\12.Fibonachi\obj\Debug\12.Fibonachi.csprojResolveAssemblyReference.cache

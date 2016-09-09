@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\17.BiggestCommonDevider\bin\Debug\17.BiggestCommonDevider.exe.config
+C:\projects\Csharp\6.Tsikli\17.BiggestCommonDevider\bin\Debug\17.BiggestCommonDevider.exe
+C:\projects\Csharp\6.Tsikli\17.BiggestCommonDevider\bin\Debug\17.BiggestCommonDevider.pdb
+C:\projects\Csharp\6.Tsikli\17.BiggestCommonDevider\obj\Debug\17.BiggestCommonDevider.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\17.BiggestCommonDevider\obj\Debug\17.BiggestCommonDevider.exe
+C:\projects\Csharp\6.Tsikli\17.BiggestCommonDevider\obj\Debug\17.BiggestCommonDevider.pdb

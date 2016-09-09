@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3Numbers\bin\Debug\3Numbers.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3Numbers\bin\Debug\3Numbers.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3Numbers\bin\Debug\3Numbers.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3Numbers\obj\Debug\4.3Numbers.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3Numbers\obj\Debug\3Numbers.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\3Numbers\obj\Debug\3Numbers.pdb

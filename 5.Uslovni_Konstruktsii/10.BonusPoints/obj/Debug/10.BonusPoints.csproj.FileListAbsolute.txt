@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\10.BonusPoints\bin\Debug\10.BonusPoints.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\10.BonusPoints\bin\Debug\10.BonusPoints.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\10.BonusPoints\bin\Debug\10.BonusPoints.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\10.BonusPoints\obj\Debug\10.BonusPoints.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\10.BonusPoints\obj\Debug\10.BonusPoints.pdb

@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\8.CatalansNumber\bin\Debug\8.CatalansNumber.exe.config
+C:\projects\Csharp\6.Tsikli\8.CatalansNumber\bin\Debug\8.CatalansNumber.exe
+C:\projects\Csharp\6.Tsikli\8.CatalansNumber\bin\Debug\8.CatalansNumber.pdb
+C:\projects\Csharp\6.Tsikli\8.CatalansNumber\obj\Debug\8.CatalansNumber.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\8.CatalansNumber\obj\Debug\8.CatalansNumber.exe
+C:\projects\Csharp\6.Tsikli\8.CatalansNumber\obj\Debug\8.CatalansNumber.pdb

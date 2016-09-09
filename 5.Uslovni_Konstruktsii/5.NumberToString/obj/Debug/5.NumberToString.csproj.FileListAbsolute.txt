@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\5.NumberToString\bin\Debug\5.NumberToString.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\5.NumberToString\bin\Debug\5.NumberToString.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\5.NumberToString\bin\Debug\5.NumberToString.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\5.NumberToString\obj\Debug\5.NumberToString.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\5.NumberToString\obj\Debug\5.NumberToString.pdb

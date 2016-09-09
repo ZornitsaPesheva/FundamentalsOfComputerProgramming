@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\11.PrintNumbersToN\bin\Debug\11.PrintNumbersToN.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\11.PrintNumbersToN\bin\Debug\11.PrintNumbersToN.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\11.PrintNumbersToN\bin\Debug\11.PrintNumbersToN.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\11.PrintNumbersToN\obj\Debug\11.PrintNumbersToN.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\11.PrintNumbersToN\obj\Debug\11.PrintNumbersToN.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\11.PrintNumbersToN\obj\Debug\11.PrintNumbersToN.pdb

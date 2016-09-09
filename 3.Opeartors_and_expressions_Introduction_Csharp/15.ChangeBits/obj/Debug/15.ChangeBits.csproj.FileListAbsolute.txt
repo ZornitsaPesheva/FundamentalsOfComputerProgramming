@@ -1,0 +1,6 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\15.ChangeBits\bin\Debug\15.ChangeBits.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\15.ChangeBits\bin\Debug\15.ChangeBits.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\15.ChangeBits\bin\Debug\15.ChangeBits.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\15.ChangeBits\obj\Debug\15.ChangeBits.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\15.ChangeBits\obj\Debug\15.ChangeBits.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\15.ChangeBits\obj\Debug\15.ChangeBits.pdb

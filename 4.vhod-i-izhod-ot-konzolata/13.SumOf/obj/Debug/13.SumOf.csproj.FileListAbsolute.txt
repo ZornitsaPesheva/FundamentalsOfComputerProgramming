@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\13.SumOf\bin\Debug\13.SumOf.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\13.SumOf\bin\Debug\13.SumOf.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\13.SumOf\bin\Debug\13.SumOf.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\13.SumOf\obj\Debug\13.SumOf.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\13.SumOf\obj\Debug\13.SumOf.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\13.SumOf\obj\Debug\13.SumOf.pdb

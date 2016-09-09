@@ -1,0 +1,5 @@
+C:\projects\Csharp\7.Advanced-Loops\NumberPyramid\bin\Debug\NumberPyramid.exe.config
+C:\projects\Csharp\7.Advanced-Loops\NumberPyramid\bin\Debug\NumberPyramid.exe
+C:\projects\Csharp\7.Advanced-Loops\NumberPyramid\bin\Debug\NumberPyramid.pdb
+C:\projects\Csharp\7.Advanced-Loops\NumberPyramid\obj\Debug\NumberPyramid.exe
+C:\projects\Csharp\7.Advanced-Loops\NumberPyramid\obj\Debug\NumberPyramid.pdb

@@ -1,0 +1,69 @@
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\csc.exe
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\System.Collections.Immutable.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\System.Reflection.Metadata.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\vbc.exe
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\VBCSCompiler.exe
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\roslyn\VBCSCompiler.exe.config
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Fruits-Web- Game.dll.config
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Fruits-Web- Game.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Fruits-Web- Game.pdb
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Antlr3.Runtime.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\EntityFramework.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\EntityFramework.SqlServer.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.AspNet.Identity.Core.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.Cookies.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.Facebook.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.Google.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.OAuth.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.Twitter.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Web.Infrastructure.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Newtonsoft.Json.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Owin.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.Helpers.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.Mvc.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.Optimization.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.Razor.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.WebPages.Deployment.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.WebPages.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.WebPages.Razor.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\WebGrease.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.Helpers.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.Mvc.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.Optimization.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.Razor.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.WebPages.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.WebPages.Deployment.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\System.Web.WebPages.Razor.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Antlr3.Runtime.pdb
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Newtonsoft.Json.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\EntityFramework.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\EntityFramework.SqlServer.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.AspNet.Identity.Core.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.Facebook.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.Cookies.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.OAuth.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.Google.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.Twitter.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\obj\Debug\Fruits-Web- Game.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\obj\Debug\Fruits-Web- Game.dll
+C:\projects\Csharp\7.Advanced-Loops\Fruits-Web- Game\obj\Debug\Fruits-Web- Game.pdb

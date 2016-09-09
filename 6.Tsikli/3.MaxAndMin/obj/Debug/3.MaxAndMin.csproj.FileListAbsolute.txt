@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\3.MaxAndMin\bin\Debug\3.MaxAndMin.exe.config
+C:\projects\Csharp\6.Tsikli\3.MaxAndMin\bin\Debug\3.MaxAndMin.exe
+C:\projects\Csharp\6.Tsikli\3.MaxAndMin\bin\Debug\3.MaxAndMin.pdb
+C:\projects\Csharp\6.Tsikli\3.MaxAndMin\obj\Debug\3.MaxAndMin.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\3.MaxAndMin\obj\Debug\3.MaxAndMin.exe
+C:\projects\Csharp\6.Tsikli\3.MaxAndMin\obj\Debug\3.MaxAndMin.pdb

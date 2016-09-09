@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PointInCircle\bin\Debug\8.PointInCircle.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PointInCircle\bin\Debug\8.PointInCircle.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PointInCircle\bin\Debug\8.PointInCircle.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PointInCircle\obj\Debug\8.PointInCircle.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PointInCircle\obj\Debug\8.PointInCircle.pdb

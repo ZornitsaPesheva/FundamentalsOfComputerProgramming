@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\10.DumNnumbers\bin\Debug\10.DumNnumbers.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\10.DumNnumbers\bin\Debug\10.DumNnumbers.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\10.DumNnumbers\bin\Debug\10.DumNnumbers.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\10.DumNnumbers\obj\Debug\10.DumNnumbers.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\10.DumNnumbers\obj\Debug\10.DumNnumbers.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\10.DumNnumbers\obj\Debug\10.DumNnumbers.pdb

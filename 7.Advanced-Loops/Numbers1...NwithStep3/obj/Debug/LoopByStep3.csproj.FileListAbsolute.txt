@@ -1,0 +1,6 @@
+C:\projects\Csharp\7.Advanced-Loops\Numbers1...NwithStep3\obj\Debug\LoopByStep3.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\7.Advanced-Loops\Numbers1...NwithStep3\bin\Debug\Numbers1._._.NwithStep3.exe.config
+C:\projects\Csharp\7.Advanced-Loops\Numbers1...NwithStep3\bin\Debug\Numbers1._._.NwithStep3.exe
+C:\projects\Csharp\7.Advanced-Loops\Numbers1...NwithStep3\bin\Debug\Numbers1._._.NwithStep3.pdb
+C:\projects\Csharp\7.Advanced-Loops\Numbers1...NwithStep3\obj\Debug\Numbers1._._.NwithStep3.exe
+C:\projects\Csharp\7.Advanced-Loops\Numbers1...NwithStep3\obj\Debug\Numbers1._._.NwithStep3.pdb

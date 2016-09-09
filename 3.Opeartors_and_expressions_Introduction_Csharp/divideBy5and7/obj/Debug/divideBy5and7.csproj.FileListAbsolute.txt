@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\divideBy5and7\bin\Debug\divideBy5and7.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\divideBy5and7\bin\Debug\divideBy5and7.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\divideBy5and7\bin\Debug\divideBy5and7.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\divideBy5and7\obj\Debug\divideBy5and7.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\divideBy5and7\obj\Debug\divideBy5and7.pdb

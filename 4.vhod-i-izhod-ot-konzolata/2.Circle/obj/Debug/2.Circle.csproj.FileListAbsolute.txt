@@ -1,0 +1,5 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\2.Circle\bin\Debug\2.Circle.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\2.Circle\bin\Debug\2.Circle.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\2.Circle\bin\Debug\2.Circle.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\2.Circle\obj\Debug\2.Circle.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\2.Circle\obj\Debug\2.Circle.pdb

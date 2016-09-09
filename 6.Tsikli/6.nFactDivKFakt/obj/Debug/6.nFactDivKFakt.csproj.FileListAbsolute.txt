@@ -1,0 +1,5 @@
+C:\projects\Csharp\6.Tsikli\6.nFactDivKFakt\bin\Debug\6.nFactDivKFakt.exe.config
+C:\projects\Csharp\6.Tsikli\6.nFactDivKFakt\bin\Debug\6.nFactDivKFakt.exe
+C:\projects\Csharp\6.Tsikli\6.nFactDivKFakt\bin\Debug\6.nFactDivKFakt.pdb
+C:\projects\Csharp\6.Tsikli\6.nFactDivKFakt\obj\Debug\6.nFactDivKFakt.exe
+C:\projects\Csharp\6.Tsikli\6.nFactDivKFakt\obj\Debug\6.nFactDivKFakt.pdb

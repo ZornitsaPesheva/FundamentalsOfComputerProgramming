@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\6.RectangleSquareAndArea\bin\Debug\6.RectangleSquareAndArea.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\6.RectangleSquareAndArea\bin\Debug\6.RectangleSquareAndArea.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\6.RectangleSquareAndArea\bin\Debug\6.RectangleSquareAndArea.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\6.RectangleSquareAndArea\obj\Debug\6.RectangleSquareAndArea.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\6.RectangleSquareAndArea\obj\Debug\6.RectangleSquareAndArea.pdb

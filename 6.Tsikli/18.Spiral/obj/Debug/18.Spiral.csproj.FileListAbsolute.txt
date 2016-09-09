@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\18.Spiral\bin\Debug\18.Spiral.exe.config
+C:\projects\Csharp\6.Tsikli\18.Spiral\bin\Debug\18.Spiral.exe
+C:\projects\Csharp\6.Tsikli\18.Spiral\bin\Debug\18.Spiral.pdb
+C:\projects\Csharp\6.Tsikli\18.Spiral\obj\Debug\18.Spiral.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\18.Spiral\obj\Debug\18.Spiral.exe
+C:\projects\Csharp\6.Tsikli\18.Spiral\obj\Debug\18.Spiral.pdb

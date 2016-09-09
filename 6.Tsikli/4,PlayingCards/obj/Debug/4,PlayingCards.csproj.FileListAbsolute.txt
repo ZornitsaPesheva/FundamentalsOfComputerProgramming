@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\4,PlayingCards\bin\Debug\4,PlayingCards.exe.config
+C:\projects\Csharp\6.Tsikli\4,PlayingCards\bin\Debug\4,PlayingCards.exe
+C:\projects\Csharp\6.Tsikli\4,PlayingCards\bin\Debug\4,PlayingCards.pdb
+C:\projects\Csharp\6.Tsikli\4,PlayingCards\obj\Debug\4,PlayingCards.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\4,PlayingCards\obj\Debug\4,PlayingCards.exe
+C:\projects\Csharp\6.Tsikli\4,PlayingCards\obj\Debug\4,PlayingCards.pdb

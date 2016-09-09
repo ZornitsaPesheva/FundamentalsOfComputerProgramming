@@ -1,0 +1,5 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PersonOnTheMoon\bin\Debug\8.PersonOnTheMoon.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PersonOnTheMoon\bin\Debug\8.PersonOnTheMoon.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PersonOnTheMoon\bin\Debug\8.PersonOnTheMoon.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PersonOnTheMoon\obj\Debug\8.PersonOnTheMoon.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\8.PersonOnTheMoon\obj\Debug\8.PersonOnTheMoon.pdb

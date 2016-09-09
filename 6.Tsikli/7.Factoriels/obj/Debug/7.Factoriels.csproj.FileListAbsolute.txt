@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\7.Factoriels\bin\Debug\7.Factoriels.exe.config
+C:\projects\Csharp\6.Tsikli\7.Factoriels\bin\Debug\7.Factoriels.exe
+C:\projects\Csharp\6.Tsikli\7.Factoriels\bin\Debug\7.Factoriels.pdb
+C:\projects\Csharp\6.Tsikli\7.Factoriels\obj\Debug\7.Factoriels.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\7.Factoriels\obj\Debug\7.Factoriels.exe
+C:\projects\Csharp\6.Tsikli\7.Factoriels\obj\Debug\7.Factoriels.pdb

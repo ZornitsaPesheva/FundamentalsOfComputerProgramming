@@ -1,0 +1,5 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\6,Kvadratno_ur-e\bin\Debug\6,Kvadratno_ur-e.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\6,Kvadratno_ur-e\bin\Debug\6,Kvadratno_ur-e.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\6,Kvadratno_ur-e\bin\Debug\6,Kvadratno_ur-e.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\6,Kvadratno_ur-e\obj\Debug\6,Kvadratno_ur-e.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\6,Kvadratno_ur-e\obj\Debug\6,Kvadratno_ur-e.pdb

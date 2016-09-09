@@ -1,0 +1,6 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\Is3rdDigit7\bin\Debug\Is3rdDigit7.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\Is3rdDigit7\bin\Debug\Is3rdDigit7.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\Is3rdDigit7\bin\Debug\Is3rdDigit7.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\Is3rdDigit7\obj\Debug\Is3rdDigit7.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\Is3rdDigit7\obj\Debug\Is3rdDigit7.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\Is3rdDigit7\obj\Debug\Is3rdDigit7.pdb

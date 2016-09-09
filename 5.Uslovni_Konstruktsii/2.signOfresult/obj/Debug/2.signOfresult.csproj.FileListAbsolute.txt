@@ -1,0 +1,6 @@
+C:\projects\Csharp\5.Uslovni_Konstruktsii\2.signOfresult\bin\Debug\2.signOfresult.exe.config
+C:\projects\Csharp\5.Uslovni_Konstruktsii\2.signOfresult\bin\Debug\2.signOfresult.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\2.signOfresult\bin\Debug\2.signOfresult.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\2.signOfresult\obj\Debug\2.signOfresult.exe
+C:\projects\Csharp\5.Uslovni_Konstruktsii\2.signOfresult\obj\Debug\2.signOfresult.pdb
+C:\projects\Csharp\5.Uslovni_Konstruktsii\2.signOfresult\obj\Debug\2.signOfresult.csprojResolveAssemblyReference.cache

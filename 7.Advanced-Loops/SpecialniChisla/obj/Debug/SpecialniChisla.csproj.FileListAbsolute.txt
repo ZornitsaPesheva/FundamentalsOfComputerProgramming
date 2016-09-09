@@ -1,0 +1,6 @@
+C:\projects\Csharp\7.Advanced-Loops\SpecialniChisla\bin\Debug\SpecialniChisla.exe.config
+C:\projects\Csharp\7.Advanced-Loops\SpecialniChisla\bin\Debug\SpecialniChisla.exe
+C:\projects\Csharp\7.Advanced-Loops\SpecialniChisla\bin\Debug\SpecialniChisla.pdb
+C:\projects\Csharp\7.Advanced-Loops\SpecialniChisla\obj\Debug\SpecialniChisla.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\7.Advanced-Loops\SpecialniChisla\obj\Debug\SpecialniChisla.exe
+C:\projects\Csharp\7.Advanced-Loops\SpecialniChisla\obj\Debug\SpecialniChisla.pdb

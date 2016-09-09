@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\9.Uravnenie\bin\Debug\9.Uravnenie.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\9.Uravnenie\obj\Debug\9.Uravnenie.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\9.Uravnenie\bin\Debug\9.Uravnenie.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\9.Uravnenie\bin\Debug\9.Uravnenie.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\9.Uravnenie\obj\Debug\9.Uravnenie.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\9.Uravnenie\obj\Debug\9.Uravnenie.pdb

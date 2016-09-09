@@ -1,0 +1,6 @@
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\7.Sum5numbers\bin\Debug\7.Sum5numbers.exe.config
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\7.Sum5numbers\bin\Debug\7.Sum5numbers.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\7.Sum5numbers\bin\Debug\7.Sum5numbers.pdb
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\7.Sum5numbers\obj\Debug\7.Sum5numbers.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\7.Sum5numbers\obj\Debug\7.Sum5numbers.exe
+C:\projects\Csharp\4.vhod-i-izhod-ot-konzolata\7.Sum5numbers\obj\Debug\7.Sum5numbers.pdb

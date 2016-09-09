@@ -1,0 +1,6 @@
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\10.ActionsOn4digitsNumber\bin\Debug\10.ActionsOn4digitsNumber.exe.config
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\10.ActionsOn4digitsNumber\bin\Debug\10.ActionsOn4digitsNumber.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\10.ActionsOn4digitsNumber\bin\Debug\10.ActionsOn4digitsNumber.pdb
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\10.ActionsOn4digitsNumber\obj\Debug\10.ActionsOn4digitsNumber.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\10.ActionsOn4digitsNumber\obj\Debug\10.ActionsOn4digitsNumber.exe
+C:\projects\Csharp\3.Opeartors_and_expressions_Introduction_Csharp\10.ActionsOn4digitsNumber\obj\Debug\10.ActionsOn4digitsNumber.pdb

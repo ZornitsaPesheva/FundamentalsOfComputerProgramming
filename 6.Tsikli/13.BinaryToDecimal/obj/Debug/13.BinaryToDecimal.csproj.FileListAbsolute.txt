@@ -1,0 +1,6 @@
+C:\projects\Csharp\6.Tsikli\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe.config
+C:\projects\Csharp\6.Tsikli\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.exe
+C:\projects\Csharp\6.Tsikli\13.BinaryToDecimal\bin\Debug\13.BinaryToDecimal.pdb
+C:\projects\Csharp\6.Tsikli\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.csprojResolveAssemblyReference.cache
+C:\projects\Csharp\6.Tsikli\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.exe
+C:\projects\Csharp\6.Tsikli\13.BinaryToDecimal\obj\Debug\13.BinaryToDecimal.pdb
