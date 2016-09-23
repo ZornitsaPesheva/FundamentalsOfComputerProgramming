@@ -4,3 +4,6 @@ C:\projects\Csharp\6.Tsikli\1.Numbers1-N\bin\Debug\1.Numbers1-N.pdb
 C:\projects\Csharp\6.Tsikli\1.Numbers1-N\obj\Debug\1.Numbers1-N.csprojResolveAssemblyReference.cache
 C:\projects\Csharp\6.Tsikli\1.Numbers1-N\obj\Debug\1.Numbers1-N.exe
 C:\projects\Csharp\6.Tsikli\1.Numbers1-N\obj\Debug\1.Numbers1-N.pdb
+C:\projects\old\FundamentalsOfComputerProgramming\6.Tsikli\1.Numbers1-N\bin\Debug\1.Numbers1-N.exe.config
+C:\projects\old\FundamentalsOfComputerProgramming\6.Tsikli\1.Numbers1-N\obj\Debug\1.Numbers1-N.exe
+C:\projects\old\FundamentalsOfComputerProgramming\6.Tsikli\1.Numbers1-N\obj\Debug\1.Numbers1-N.pdb

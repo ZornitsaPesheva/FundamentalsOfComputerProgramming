@@ -36,7 +36,10 @@ namespace _15.decimalToHex
                     hex = r.ToString() + hex;
                 }
             } while (n / 16 > 0);
-            hex = n.ToString() + hex;
+            if (n != 0)
+            {
+                hex = n.ToString() + hex;
+            }
             Console.WriteLine(hex);
         }
     }

@@ -4,3 +4,6 @@ C:\projects\Csharp\6.Tsikli\15.decimalToHex\bin\Debug\15.decimalToHex.pdb
 C:\projects\Csharp\6.Tsikli\15.decimalToHex\obj\Debug\15.decimalToHex.csprojResolveAssemblyReference.cache
 C:\projects\Csharp\6.Tsikli\15.decimalToHex\obj\Debug\15.decimalToHex.exe
 C:\projects\Csharp\6.Tsikli\15.decimalToHex\obj\Debug\15.decimalToHex.pdb
+C:\projects\old\FundamentalsOfComputerProgramming\6.Tsikli\15.decimalToHex\bin\Debug\15.decimalToHex.exe.config
+C:\projects\old\FundamentalsOfComputerProgramming\6.Tsikli\15.decimalToHex\obj\Debug\15.decimalToHex.exe
+C:\projects\old\FundamentalsOfComputerProgramming\6.Tsikli\15.decimalToHex\obj\Debug\15.decimalToHex.pdb
