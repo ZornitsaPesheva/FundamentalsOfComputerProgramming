@@ -1,0 +1,6 @@
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\1.IndexBy5\bin\Debug\1.IndexBy5.exe.config
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\1.IndexBy5\bin\Debug\1.IndexBy5.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\1.IndexBy5\bin\Debug\1.IndexBy5.pdb
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\1.IndexBy5\obj\Debug\1.IndexBy5.csprojResolveAssemblyReference.cache
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\1.IndexBy5\obj\Debug\1.IndexBy5.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\1.IndexBy5\obj\Debug\1.IndexBy5.pdb
