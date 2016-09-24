@@ -1,0 +1,6 @@
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\4.MaxSubArray\bin\Debug\4.MaxSubArray.exe.config
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\4.MaxSubArray\bin\Debug\4.MaxSubArray.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\4.MaxSubArray\bin\Debug\4.MaxSubArray.pdb
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\4.MaxSubArray\obj\Debug\4.MaxSubArray.csprojResolveAssemblyReference.cache
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\4.MaxSubArray\obj\Debug\4.MaxSubArray.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\4.MaxSubArray\obj\Debug\4.MaxSubArray.pdb

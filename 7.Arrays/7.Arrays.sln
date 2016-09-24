@@ -9,6 +9,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "2.TwoEqualArrays", "2.TwoEq
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.LexographicalCompare", "3.LexographicalCompare\3.LexographicalCompare.csproj", "{C660F0FB-98C0-44F5-9661-66DD34E584A6}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.MaxSubArray", "4.MaxSubArray\4.MaxSubArray.csproj", "{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -27,6 +29,10 @@ Global
 		{C660F0FB-98C0-44F5-9661-66DD34E584A6}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{C660F0FB-98C0-44F5-9661-66DD34E584A6}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{C660F0FB-98C0-44F5-9661-66DD34E584A6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
