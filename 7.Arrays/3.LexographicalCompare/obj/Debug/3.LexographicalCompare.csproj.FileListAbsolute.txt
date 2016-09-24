@@ -1,0 +1,6 @@
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\3.LexographicalCompare\bin\Debug\3.LexographicalCompare.exe.config
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\3.LexographicalCompare\bin\Debug\3.LexographicalCompare.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\3.LexographicalCompare\bin\Debug\3.LexographicalCompare.pdb
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\3.LexographicalCompare\obj\Debug\3.LexographicalCompare.csprojResolveAssemblyReference.cache
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\3.LexographicalCompare\obj\Debug\3.LexographicalCompare.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\3.LexographicalCompare\obj\Debug\3.LexographicalCompare.pdb
