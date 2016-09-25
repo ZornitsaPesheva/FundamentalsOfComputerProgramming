@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "3.LexographicalCompare", "3
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "4.MaxSubArray", "4.MaxSubArray\4.MaxSubArray.csproj", "{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "5.MaxSubarrayOfGrowingNums", "5.MaxSubarrayOfGrowingNums\5.MaxSubarrayOfGrowingNums.csproj", "{00AB826B-8E46-4FC9-AE34-261BDE5E1108}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "6.MaxArrayGrowngNotInSiquence", "6.MaxArrayGrowngNotInSiquence\6.MaxArrayGrowngNotInSiquence.csproj", "{D7054882-0367-4139-BD1C-DF16DFE9B423}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +37,14 @@ Global
 		{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{56C5D7AB-1061-4C54-BDB3-3CF212AA66C2}.Release|Any CPU.Build.0 = Release|Any CPU
+		{00AB826B-8E46-4FC9-AE34-261BDE5E1108}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{00AB826B-8E46-4FC9-AE34-261BDE5E1108}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{00AB826B-8E46-4FC9-AE34-261BDE5E1108}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{00AB826B-8E46-4FC9-AE34-261BDE5E1108}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D7054882-0367-4139-BD1C-DF16DFE9B423}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D7054882-0367-4139-BD1C-DF16DFE9B423}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D7054882-0367-4139-BD1C-DF16DFE9B423}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D7054882-0367-4139-BD1C-DF16DFE9B423}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

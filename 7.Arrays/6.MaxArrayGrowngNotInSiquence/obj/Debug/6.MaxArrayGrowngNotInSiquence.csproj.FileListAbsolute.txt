@@ -1,0 +1,6 @@
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\6.MaxArrayGrowngNotInSiquence\bin\Debug\6.MaxArrayGrowngNotInSiquence.exe.config
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\6.MaxArrayGrowngNotInSiquence\obj\Debug\6.MaxArrayGrowngNotInSiquence.csprojResolveAssemblyReference.cache
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\6.MaxArrayGrowngNotInSiquence\bin\Debug\6.MaxArrayGrowngNotInSiquence.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\6.MaxArrayGrowngNotInSiquence\bin\Debug\6.MaxArrayGrowngNotInSiquence.pdb
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\6.MaxArrayGrowngNotInSiquence\obj\Debug\6.MaxArrayGrowngNotInSiquence.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\6.MaxArrayGrowngNotInSiquence\obj\Debug\6.MaxArrayGrowngNotInSiquence.pdb

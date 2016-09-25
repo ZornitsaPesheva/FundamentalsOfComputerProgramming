@@ -1,0 +1,5 @@
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\5.MaxSubarrayOfGrowingNums\bin\Debug\5.MaxSubarrayOfGrowingNums.exe.config
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\5.MaxSubarrayOfGrowingNums\bin\Debug\5.MaxSubarrayOfGrowingNums.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\5.MaxSubarrayOfGrowingNums\bin\Debug\5.MaxSubarrayOfGrowingNums.pdb
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\5.MaxSubarrayOfGrowingNums\obj\Debug\5.MaxSubarrayOfGrowingNums.exe
+C:\projects\old\FundamentalsOfComputerProgramming\7.Arrays\5.MaxSubarrayOfGrowingNums\obj\Debug\5.MaxSubarrayOfGrowingNums.pdb
